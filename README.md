@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ejdunia!
+- 👋 Hi, I’m Josh!
 - 🌱 I’m currently learning python, JS and front end markup 
 - 💞️ I’m looking to collaborate on open source projects to sharpen my skill set and become a better programmer
